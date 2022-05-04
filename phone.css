@@ -1,0 +1,29 @@
+#navbar{
+    /* flex-direction:column */
+}
+
+#home::before{
+    width: 524px;
+     flex-flow: wrap;
+}
+
+
+
+#service{
+    flex-direction: column;
+}
+#service.box{
+
+
+}
+#clients{
+    overflow: hidden;
+}
+#clints img{
+
+ height: 44px;
+ width: 44px;
+
+
+}
+
